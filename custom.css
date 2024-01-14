@@ -1,0 +1,54 @@
+h1 {
+    padding: 15px;
+}
+
+p {
+    color: rgb(37, 196, 37);
+    background-color: rgb(244, 241, 241);
+    padding: 15px;
+    margin-bottom: 2px;
+    font-size: 16pt;
+    font-weight: bold;
+}
+
+img {
+    max-width: 100%;
+    max-height: 100%;
+    justify-content: center;
+    text-align: center;
+    border: 1px solid rgb(216, 210, 210);
+    border-radius: .35rem;
+    margin-bottom: 10px;
+}
+
+.polo {
+    border: 1px solid rgb(216, 210, 210);
+    border-radius: .35rem;
+}
+
+.meret p {
+    color: black;
+    display: inline;
+    padding: 2px;
+    border: 2px solid black;
+    font-size: 12pt;
+    font-weight: 400;
+}
+
+.meret {
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+
+.ar {
+    margin-top: 40px;
+}
+
+.btn {
+    padding-left: 40px;
+    padding-right: 40px;
+    align-items: right;
+    color: yellow;
+    border-radius: 0px;
+    border: 2px solid black;
+}
